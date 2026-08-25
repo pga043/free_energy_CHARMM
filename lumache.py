@@ -1,5 +1,5 @@
 """
-Lumache - Python library for cooks and food lovers.
+Tutorial 1: FEP calculation with CHARMM BLOCK module
 """
 
 __version__ = "0.1.0"
